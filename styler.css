@@ -19,8 +19,12 @@ p {
 a {
   background-color: tomato;
   padding: 12px;
-  width: 64px;
+  width: fit-content;
   color: white;
   text-decoration: none;
   display: block;
+}
+
+a:hover {
+  background-color: rgb(255, 81, 50);
 }
