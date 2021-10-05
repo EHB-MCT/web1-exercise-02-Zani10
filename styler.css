@@ -1,0 +1,26 @@
+h1 {
+  color: tomato;
+}
+
+.grijs {
+  color: rgb(160, 160, 160);
+}
+
+body {
+  background-color: rgb(233, 234, 234);
+  margin: 2em;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+p {
+  color: rgb(160, 160, 160);
+}
+
+a {
+  background-color: tomato;
+  padding: 12px;
+  width: 64px;
+  color: white;
+  text-decoration: none;
+  display: block;
+}
